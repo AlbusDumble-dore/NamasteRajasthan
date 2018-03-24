@@ -1,2 +1,2 @@
 # NamasteRajasthan
-Deployed link:- mytour.bitballoon.com
+Deployed link:- mytourist.bitballoon.com
